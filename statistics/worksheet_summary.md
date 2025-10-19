@@ -40,13 +40,13 @@ This unit emphasised how visualisation transforms numeric results into accessibl
 You can access the completed statistical worksheets here:
 
 ### Unit 8 Worksheets
-- [Exe 8.1B – One Sample Test](Unit8/Exe 8.1B.xlsx)
-- [Exe 8.2B – Two Sample Comparison](Unit8/Exe 8.2B.xlsx)
-- [Exe 8.3D – Categorical Association](Unit8/Exe 8.3D.xlsx)
-- [Exe 8.6C – Group Mean Comparison](Unit8/Exe 8.6C.xlsx)
+- [Exe 8.1B – One Sample Test](Unit8/Exe_8.1B.xlsx)
+- [Exe 8.2B – Two Sample Comparison](Unit8/Exe_8.2B.xlsx)
+- [Exe 8.3D – Categorical Association](Unit8/Exe_8.3D.xlsx)
+- [Exe 8.6C – Group Mean Comparison](Unit8/Exe_8.6C.xlsx)
 
 ### Unit 9 Worksheets
-- [Exe 9.1D – Area 1 Chart](Unit9/Exe 9.1D.xlsx)
-- [Exe 9.2D – Area 1 vs Area 2 Comparison](Unit9/Exe 9.2D.xlsx)
-- [Exe 9.3B – Diet A & B Histograms](Unit9/Exe 9.3B.xlsx)
+- [Exe 9.1D – Area 1 Chart](Unit9/Exe_9.1D.xlsx)
+- [Exe 9.2D – Area 1 vs Area 2 Comparison](Unit9/Exe_9.2D.xlsx)
+- [Exe 9.3B – Diet A & B Histograms](Unit9/Exe_9.3B.xlsx)
 
